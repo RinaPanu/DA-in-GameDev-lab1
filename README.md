@@ -41,7 +41,7 @@
 Ход работы:
 1)В облачном сервисе google console подключить API для работы с google sheets и google drive.
 Сначала был создан новый проект в сервисе Google Console - "UnityDataSciece". Потом подключены необходимые API из маркетплейса (Google Sheets API и Google Drive API). Создан сервис аккаунт UnityServiceDataScience и затем указана роль "Editor". После я выгружен API-ключ. При создании сервиса появился Email, который необходимо занести в доступ в новую google-таблицу. Скриншот о проделанной работе:
-![image](https://user-images.githubusercontent.com/113353473/195150543-9d346862-4c03-404f-a456-1a96dc8c6af8.png)
+![image](https://user-images.githubusercontent.com/113353473/195171291-57ae5261-195d-436e-938c-ca17e3a9483c.png)
 2)Реализовать запись данных из скрипта на python в google-таблицу. Данные описывают изменение темпа инфляции на протяжении 11 отсчётных периодов, с учётом стоимости игрового объекта в каждый период.
 ![image](https://user-images.githubusercontent.com/113353473/195152179-0c4db89d-b6a0-4c68-b8fb-175ccf1f5917.png)
 ![image](https://user-images.githubusercontent.com/113353473/195152299-bec0d22d-d8df-4ce6-a534-b1bfdeb4efed.png)
