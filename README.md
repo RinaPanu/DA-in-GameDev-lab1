@@ -35,17 +35,19 @@
 - ✨Magic ✨
 
 ## Цель работы
-Ознакомиться с основными операторами зыка Python на примере реализации линейной регрессии.
+познакомиться с программными средствами для создания системы машинного обучения и ее интеграции в Unity.
 
-## Задание 1 Написать программы Hello World на Python и Unity. 
-1.1 Запуск программы на Python
-![image](https://user-images.githubusercontent.com/113353473/192830952-dcd1b573-cdaa-42c2-88b1-897febfd81ec.png)
+## Задание 1 Реализовать систему машинного обучения в связке Python - Google-Sheets – Unity. При выполнении задания можно использовать видео-материалы и исходные данные, предоставленные преподавателями курса.
+Ход работы
+При этапе подготовки необходимо скачать папку с ML-агентом.Необходимо в новом 3D проекте Unity добавить .json – файлы. 
+![image](https://user-images.githubusercontent.com/113353473/198330606-d859e35d-74c8-4b5f-812c-838254cb6d6d.png)
 
-![image](https://user-images.githubusercontent.com/113353473/192830784-78392cf8-c269-4b61-ac6b-62854aed4a58.png)
-
-1.2 запуск программы на Unity
-![image](https://user-images.githubusercontent.com/113353473/192837154-3a94d999-37c1-446b-9609-9f24ddefff08.png)
-![image](https://user-images.githubusercontent.com/113353473/192837594-30406cdd-9303-4895-9bb9-959dbd808984.png)
+С помощью Anaconda Prompt нужно активировать новый ML-агент и скачать новые библиотеки: mlagents 0.28.0 (в моем случае я устанавливала на версию ниже), torch 1.7.1. Вводим команды.
+![image](https://user-images.githubusercontent.com/113353473/198361952-5d49e748-1021-45fe-925a-71e4a2985b27.png)
+![image](https://user-images.githubusercontent.com/113353473/198361993-889818df-ee3b-440c-846f-29438c9fe6ce.png)
+![image](https://user-images.githubusercontent.com/113353473/198362035-c7548694-750a-40a0-a738-06bd0473fee6.png)
+![image](https://user-images.githubusercontent.com/113353473/198362085-c96d3572-1988-4f0c-a098-1d5384a147c0.png)
+![image](https://user-images.githubusercontent.com/113353473/198361733-cea773bf-d61b-4f9e-8456-1f43873bf5ef.png)
 
 ## Задание 2 В разделе «ход работы» пошагово выполнить каждый пункт с описанием и примером реализации задачи по теме лабораторной работы.
 Ход работы:
