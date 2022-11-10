@@ -68,7 +68,7 @@
 Когда 27 моделей:
 ![image](https://user-images.githubusercontent.com/113353473/201075482-4cc31944-4114-4ee9-b2f4-7a55eb58854c.gif)
 После завершеня обучения:
-![image](https://user-images.githubusercontent.com/113353473/201075815-54b3297e-3444-4f17-8ab9-fd775fa89d6d.gif)
+![image](https://user-images.githubusercontent.com/113353473/201087074-e2e4426c-53a1-45f1-a051-63fc65750109.gif)
 
 ## Задание 2 Подробно опишите каждую строку файла конфигурации нейронной сети, доступного в папке с файлами проекта по ссылке. Самостоятельно найдите информацию о компонентах Decision Requester, Behavior Parameters, добавленных на сфере.
 ![image](https://user-images.githubusercontent.com/113353473/201080995-7f7eaeaf-58d9-4f97-b6c0-bfbcb147aa42.png)
