@@ -61,13 +61,13 @@
 ![image](https://user-images.githubusercontent.com/113353473/201074147-25a37f6c-2c29-4128-ae5e-5eb97858da14.png)
 <p>У шара появилось такое поведение:
 ![image](https://user-images.githubusercontent.com/113353473/201074514-853b638b-097c-46f9-9d4a-2a7924096b44.gif)
-<p>Когда три модели:
+Когда три модели:
 ![image](https://user-images.githubusercontent.com/113353473/201075230-fde0f864-29ab-498c-833c-3e5dab73f3fd.gif)
-<p>Когда девять моделей:
+Когда девять моделей:
 ![image](https://user-images.githubusercontent.com/113353473/201075371-e6faf777-3e3f-4dfb-b3b4-205908d57967.gif)
-<p>Когда 27 моделей:
+Когда 27 моделей:
 ![image](https://user-images.githubusercontent.com/113353473/201075482-4cc31944-4114-4ee9-b2f4-7a55eb58854c.gif)
-<p>После завершеня обучения:
+После завершеня обучения:
 ![image](https://user-images.githubusercontent.com/113353473/201075815-54b3297e-3444-4f17-8ab9-fd775fa89d6d.gif)
 
 ## Задание 2 Подробно опишите каждую строку файла конфигурации нейронной сети, доступного в папке с файлами проекта по ссылке. Самостоятельно найдите информацию о компонентах Decision Requester, Behavior Parameters, добавленных на сфере.
