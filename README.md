@@ -57,9 +57,9 @@
 ![image](https://user-images.githubusercontent.com/113353473/201062844-581c603b-6fde-4d0d-bd92-aaa675077dad.png)
 Запустить работу ml-агента
 ![image](https://user-images.githubusercontent.com/113353473/201073357-0e865fad-87ef-4ab7-a08f-2db36c902c5f.png)
-<p>При запуске программы в консоли unity выводится код:
+При запуске программы в консоли unity выводится код:
 ![image](https://user-images.githubusercontent.com/113353473/201074147-25a37f6c-2c29-4128-ae5e-5eb97858da14.png)
-<p>У шара появилось такое поведение:
+У шара появилось такое поведение:
 ![image](https://user-images.githubusercontent.com/113353473/201074514-853b638b-097c-46f9-9d4a-2a7924096b44.gif)
 Когда три модели:
 ![image](https://user-images.githubusercontent.com/113353473/201075230-fde0f864-29ab-498c-833c-3e5dab73f3fd.gif)
