@@ -39,7 +39,9 @@
 
 ## Задание 1 Измените параметры файла .yaml-агента и определить какие параметры и как влияют на обучение модели.
 Параметры по умолчанию. 
+
 ![image](https://user-images.githubusercontent.com/113353473/205339746-1f40f0a7-a13c-457a-90d7-59d3d714366b.png)
+
 ![image](https://user-images.githubusercontent.com/113353473/205341772-c7f4183c-1a27-44fe-ab5a-263877f05cea.png)
 
 
